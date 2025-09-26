@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dokument</title>
+</head>
+<body>
+  <h1>Mój dokument</h1>
+  <p>O hiszpanii.</p>
+</body>
+</html>
